@@ -1,0 +1,24 @@
+.but{
+  position: relative;
+  margin-top: 50px;
+}
+.container{
+  position: relative;
+  width: 100%;
+  height: 100vh;
+}
+.videospace{
+  width:600px;
+  height:500px;
+  border:5px solid grey;
+  margin: auto;
+  margin-top: 20px;
+}
+#vid{
+  width: 100%;
+  height: 100%;
+}
+.but1{
+  display: block !important;
+  margin: 0 auto !important;
+}

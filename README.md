@@ -19,4 +19,4 @@ To run the code :
 
 2. npm start
 
-3. goto localhost:8080
+3. goto localhost:3000
